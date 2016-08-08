@@ -1,1 +1,1 @@
-<resources><string name="Hello">Hello World, Click Me!</string><string name="ApplicationName">Remote</string></resources>
+<resources><string name="ApplicationName">Remote</string><string name="no_ble">Bluetooth LE is not supported on this device</string></resources>

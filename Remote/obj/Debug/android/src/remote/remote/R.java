@@ -18,6 +18,7 @@ public final class R {
         public static final int pausebtn2=0x7f020004;
         public static final int pausebtn_select=0x7f020005;
         public static final int playbtn_select=0x7f020006;
+        public static final int remote_icon=0x7f020007;
     }
     public static final class id {
         public static final int playBtn=0x7f050000;
@@ -26,7 +27,7 @@ public final class R {
         public static final int main=0x7f030000;
     }
     public static final class string {
-        public static final int ApplicationName=0x7f040001;
-        public static final int Hello=0x7f040000;
+        public static final int ApplicationName=0x7f040000;
+        public static final int no_ble=0x7f040001;
     }
 }

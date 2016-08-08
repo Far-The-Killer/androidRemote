@@ -65,6 +65,9 @@ namespace Remote
 			// aapt resource value: 0x7f020006
 			public const int playBtn_Select = 2130837510;
 			
+			// aapt resource value: 0x7f020007
+			public const int remote_icon = 2130837511;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -110,11 +113,11 @@ namespace Remote
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f040001
-			public const int ApplicationName = 2130968577;
-			
 			// aapt resource value: 0x7f040000
-			public const int Hello = 2130968576;
+			public const int ApplicationName = 2130968576;
+			
+			// aapt resource value: 0x7f040001
+			public const int no_ble = 2130968577;
 			
 			static String()
 			{

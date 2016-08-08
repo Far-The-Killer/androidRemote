@@ -30,5 +30,6 @@ O:\Code\Remote\Remote\obj\Debug\res\drawable\pausebtn1.png
 O:\Code\Remote\Remote\obj\Debug\res\drawable\pausebtn2.png
 O:\Code\Remote\Remote\obj\Debug\res\drawable\pausebtn_select.xml
 O:\Code\Remote\Remote\bin\Debug\Remote.dll.mdb
+O:\Code\Remote\Remote\obj\Debug\res\drawable\remote_icon.png
 O:\Code\Remote\Remote\obj\Debug\Remote.dll.mdb
 O:\Code\Remote\Remote\bin\Debug\Remote.dll.mdb
