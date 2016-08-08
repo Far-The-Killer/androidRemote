@@ -1,0 +1,4 @@
+Remote.MainActivity, Remote;md50458bdb91d5dcb01a5cc02a603e032f6.MainActivity
+Remote.MainActivity, Remote, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50458bdb91d5dcb01a5cc02a603e032f6.MainActivity
+Remote.MainActivity;md50458bdb91d5dcb01a5cc02a603e032f6.MainActivity
+remote.MainActivity;md50458bdb91d5dcb01a5cc02a603e032f6.MainActivity
