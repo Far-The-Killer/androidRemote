@@ -1,17 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<RelativeLayout 
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
-  
     <Button
         android:id="@+id/playBtn"
         android:layout_width="128dp"
         android:layout_height="128dp"
-        android:background="@drawable/playBtn_Select"
-        android:rotation="90"
+        android:background="@drawable/pausebtn_select"
+        android:rotation="0"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="360dp" />
+        android:layout_marginBottom="20dp" />
+    <Button
+        android:id="@+id/fSkipBtn"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:background="@drawable/skipFowardBtn_Select"
+        android:rotation="0"
+        android:layout_alignParentBottom="false"
+        android:layout_marginRight="20dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp" />
+    <Button
+        android:id="@+id/bSkipBtn"
+        android:layout_width="128dp"
+        android:background="@drawable/skipBackwardsBtn_Select"
+        android:rotation="0"
+        android:layout_alignParentBottom="false"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp"
+        android:layout_height="128dp"
+        android:layout_marginLeft="20dp" />
 </RelativeLayout>

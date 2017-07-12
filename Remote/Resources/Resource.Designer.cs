@@ -51,22 +51,40 @@ namespace Remote
 			public const int arrowBtn2 = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int Icon = 2130837506;
+			public const int arrowBtn_Select = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int pauseBtn1 = 2130837507;
+			public const int Icon = 2130837507;
 			
 			// aapt resource value: 0x7f020004
-			public const int pauseBtn2 = 2130837508;
+			public const int pauseBtn1 = 2130837508;
 			
 			// aapt resource value: 0x7f020005
-			public const int pauseBtn_Select = 2130837509;
+			public const int pauseBtn2 = 2130837509;
 			
 			// aapt resource value: 0x7f020006
-			public const int playBtn_Select = 2130837510;
+			public const int pauseBtn_Select = 2130837510;
 			
 			// aapt resource value: 0x7f020007
 			public const int remote_icon = 2130837511;
+			
+			// aapt resource value: 0x7f020008
+			public const int skipBackwardsBtn1 = 2130837512;
+			
+			// aapt resource value: 0x7f020009
+			public const int skipBackwardsBtn2 = 2130837513;
+			
+			// aapt resource value: 0x7f02000a
+			public const int skipBackwardsBtn_Select = 2130837514;
+			
+			// aapt resource value: 0x7f02000b
+			public const int skipForwardBtn1 = 2130837515;
+			
+			// aapt resource value: 0x7f02000c
+			public const int skipForwardBtn2 = 2130837516;
+			
+			// aapt resource value: 0x7f02000d
+			public const int skipFowardBtn_Select = 2130837517;
 			
 			static Drawable()
 			{
@@ -80,6 +98,12 @@ namespace Remote
 		
 		public partial class Id
 		{
+			
+			// aapt resource value: 0x7f050002
+			public const int bSkipBtn = 2131034114;
+			
+			// aapt resource value: 0x7f050001
+			public const int fSkipBtn = 2131034113;
 			
 			// aapt resource value: 0x7f050000
 			public const int playBtn = 2131034112;

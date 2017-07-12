@@ -13,14 +13,22 @@ public final class R {
     public static final class drawable {
         public static final int arrowbtn1=0x7f020000;
         public static final int arrowbtn2=0x7f020001;
-        public static final int icon=0x7f020002;
-        public static final int pausebtn1=0x7f020003;
-        public static final int pausebtn2=0x7f020004;
-        public static final int pausebtn_select=0x7f020005;
-        public static final int playbtn_select=0x7f020006;
+        public static final int arrowbtn_select=0x7f020002;
+        public static final int icon=0x7f020003;
+        public static final int pausebtn1=0x7f020004;
+        public static final int pausebtn2=0x7f020005;
+        public static final int pausebtn_select=0x7f020006;
         public static final int remote_icon=0x7f020007;
+        public static final int skipbackwardsbtn1=0x7f020008;
+        public static final int skipbackwardsbtn2=0x7f020009;
+        public static final int skipbackwardsbtn_select=0x7f02000a;
+        public static final int skipforwardbtn1=0x7f02000b;
+        public static final int skipforwardbtn2=0x7f02000c;
+        public static final int skipfowardbtn_select=0x7f02000d;
     }
     public static final class id {
+        public static final int bSkipBtn=0x7f050002;
+        public static final int fSkipBtn=0x7f050001;
         public static final int playBtn=0x7f050000;
     }
     public static final class layout {
